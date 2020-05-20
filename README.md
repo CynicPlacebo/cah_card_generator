@@ -24,16 +24,18 @@ Easy Setup:
 
 Import Into Tabletop Simulator:  
 1) Create a room in Tabletop Sim  
-2) Create Object > Component > Decks > Custom Deck  
-3) It will prompt you to import a deck sheet  
-4) Select one a deck sheet from ./GeneratedDecks/*.png  
-5) Choose 10x7 for the deck sheet size  
-6) Choose the number of cards in the deck  
- - NOTE: The image name ends in "total_70.png" if it is a full sheet with 70 cards  
+2) Create Object > Components > Cards > Custom Deck  
+3) For "Face" browse for the deckshee you want in ./GeneratedDecks/\*.png  
+4) Be sure to select "Cloud" instead of "Local" or other players wont see it  
+5) For "Back" select an image from ./CardBacks  
+6) For "Width" choose 10  
+7) For "Height" choose 7  
+8) For "Number" choose 70 if it is a full deck sheet  
+ - NOTE: The image name of the Deck Sheet ends in "total_70.png" if it is a full sheet with 70 cards  
  - If the sheet isn't full, choose the number of cars the image name says (e.g. "total_10.png" would be 10 cards)  
  - If the deck has more than 70 cards, you will have to create multiple custom decks in Tabletop Sim, and stack them after you've spawned them.  
-7) Choose the image for the back of the card in ./CardBacks  
-8) You will need to import the Black Deck and the White Deck separately  
+9) Choose the image for the back of the card in ./CardBacks  
+10) You will need to import the Black Deck and the White Deck separately  
 
 
 References:  
