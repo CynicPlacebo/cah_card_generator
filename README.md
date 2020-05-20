@@ -7,6 +7,8 @@ CAHoot creates individual card images (409px by 585px PNGs)
 It also creates 10x7 deck sheet images (4090px by 4095px PNGs)  
 This is for easy import into Tabletop Simulator (its default custom card/deck sizes)  
 
+![Screenshot of Cards imported to Tabletop Simulator](examples/Tabletop_Sim_Screenshot.png)
+
 Setup:  
 I created this in Visual Studio 2019  
 All Input/Output is under the root Project folder.  
@@ -15,10 +17,10 @@ You should be able to clone/modify/run this project.
 
 Easy Setup:  
 1) Clone the repo  
-2) To make a custom deck, Create additional *.txt files in ./CardTextBlack and ./CardTextWhite  
+2) To make a custom deck, Create additional \*.txt files in ./CardTextBlack and ./CardTextWhite  
 3) run ./bin/Debug/CahGen.exe
-4) Get generated Cards/Decks from ./GeneratedCards/*.png and ./GeneratedDecks/*.png
-5) Get the Images for the Back Face of the cards in ./CardBacks/*.png
+4) Get generated Cards/Decks from ./GeneratedCards/\*.png and ./GeneratedDecks/\*.png
+5) Get the Images for the Back Face of the cards in ./CardBacks/\*.png
 
 Import Into Tabletop Simulator:  
 1) Create a room in Tabletop Sim  
