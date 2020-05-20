@@ -1,0 +1,10 @@
+C:\Users\Rob\source\repos\CahGen\obj\Debug\CahGen.csprojAssemblyReference.cache
+C:\Users\Rob\source\repos\CahGen\obj\Debug\CahGen.csproj.CoreCompileInputs.cache
+C:\Users\Rob\source\repos\CahGen\bin\Debug\CahGen.exe.config
+C:\Users\Rob\source\repos\CahGen\bin\Debug\CahGen.exe
+C:\Users\Rob\source\repos\CahGen\bin\Debug\CahGen.pdb
+C:\Users\Rob\source\repos\CahGen\obj\Debug\CahGen.exe
+C:\Users\Rob\source\repos\CahGen\obj\Debug\CahGen.pdb
+C:\Users\Rob\source\repos\CahGen\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Rob\source\repos\CahGen\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Rob\source\repos\CahGen\obj\Debug\CahGen.csproj.CopyComplete
